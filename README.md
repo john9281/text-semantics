@@ -31,7 +31,16 @@
 
 ![image](https://user-images.githubusercontent.com/39753454/142754036-c51b1b63-1948-4de5-a9e4-1d7664ba2245.png)
 
+### infersent https://www.aclweb.org/anthology/D17-1070.pdf
 
+infersent 用于蕴含推理，也可以从中看到，语义应该具有对细节的反应。
+
+![image](https://user-images.githubusercontent.com/39753454/142754232-7d9d8e67-21bf-46d0-a113-48ddd7609660.png)
+
+
+### metrics learning
+
+以triplet loss为代表，也为何为语义添了精彩一笔。
 
 ### infersent https://www.aclweb.org/anthology/D17-1070.pdf
 
