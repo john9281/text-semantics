@@ -17,15 +17,27 @@
 
 说embedding，word2vec是绕不过去的，其建模的内在是基于一个假设：一个词的embedding是由其上下文决定，即词频共现。把词的embedding加起来或连起来做相似。
 
+
 ### Skip-Thought https://arxiv.org/pdf/1506.06726v1.pdf
 
 通过预测一句话的上一句和下一句建模，可以理解一句话的语义是由其上下文共同决定。
 
 ![image](https://user-images.githubusercontent.com/39753454/142753747-dc4aeb42-5e6d-4570-a88c-6991e06b1054.png)
 
+
 ### Quick Thought https://arxiv.org/abs/1803.02893
 
 其表示语义的方式较 Skip-Thought有所精简，但还是从上下文入手。
 
 ![image](https://user-images.githubusercontent.com/39753454/142754036-c51b1b63-1948-4de5-a9e4-1d7664ba2245.png)
+
+
+
+### infersent https://www.aclweb.org/anthology/D17-1070.pdf
+
+infersent 用于蕴含推理，也可以从中看到，语义应该具有对细节的反应。
+
+![image](https://user-images.githubusercontent.com/39753454/142754232-7d9d8e67-21bf-46d0-a113-48ddd7609660.png)
+
+
 
