@@ -23,4 +23,9 @@
 
 ![image](https://user-images.githubusercontent.com/39753454/142753747-dc4aeb42-5e6d-4570-a88c-6991e06b1054.png)
 
+3 Quick Thought https://arxiv.org/abs/1803.02893
+
+其表示语义的方式较 Skip-Thought有所精简，但还是从上下文入手。
+
+![image](https://user-images.githubusercontent.com/39753454/142754036-c51b1b63-1948-4de5-a9e4-1d7664ba2245.png)
 
