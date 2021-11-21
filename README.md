@@ -45,6 +45,13 @@ infersent 用于蕴含推理，也可以从中看到，语义应该具有对细�
 ![image](https://user-images.githubusercontent.com/39753454/142754499-1e77a75e-f7b3-4ef4-b410-a1f6cca55e8a.png)
 
 
+### 6 预训练 + 多任务
 
+现在在大规模预料上预训练，然后结合多任务去表示语义，研究的成果很多。
+
+
+### 预训练 + 多模态 + 多任务
+
+Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks
 
 
